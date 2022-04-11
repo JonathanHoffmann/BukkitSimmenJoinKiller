@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="BukkitSimmenJoinKiller:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/BukkitSimmenJoinKiller_jar</output-path>
+    <root id="archive" name="BukkitSimmenJoinKiller.jar">
+      <element id="module-output" name="BukkitSimmenJoinKiller" />
+    </root>
+  </artifact>
+</component>
